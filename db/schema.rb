@@ -43,4 +43,3 @@ ActiveRecord::Schema.define(version: 20171122021343) do
   add_foreign_key "ownerships", "items"
   add_foreign_key "ownerships", "users"
 end
-a
